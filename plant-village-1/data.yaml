@@ -1,0 +1,13 @@
+names:
+- bad leaf
+- good leaf
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: plant-village-9vp8g
+  url: https://universe.roboflow.com/new-workspace-iuwda/plant-village-9vp8g/dataset/1
+  version: 1
+  workspace: new-workspace-iuwda
+test: test/images
+train: train/images
+val: valid/images
