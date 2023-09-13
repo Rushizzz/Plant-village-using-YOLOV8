@@ -17,30 +17,4 @@ Usage
 Clone the repository.
 Create a new virtual environment and activate it.
 Install the dependencies.
-Run the following command to train the model:
-python train.py
 
-
-5. Run the following command to detect good and bad leaves in an image:
-
-python detect.py --image path/to/image.jpg
-
-
-## Results
-
-The model was able to achieve an accuracy of 95% on the test set.
-
-## Todo
-
-* Improve the accuracy of the model.
-* Add more classes of leaves.
-* Make the model more robust to variations in lighting and background.
-
-## Contributing
-
-Contributions are welcome. Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-You can customize this README file to fit your project's specific needs.
